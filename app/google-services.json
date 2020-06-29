@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261829030320",
+    "firebase_url": "https://twerk-c8919.firebaseio.com",
+    "project_id": "twerk-c8919",
+    "storage_bucket": "twerk-c8919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261829030320:android:e7b655f14a5b47eda9a675",
+        "android_client_info": {
+          "package_name": "com.example.twerk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261829030320-g8mp4tmckbsql5uag76bqrl17cmpa9o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ViS1QT6AwBIZ7GM3Woi6NViiNK4tEck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261829030320-g8mp4tmckbsql5uag76bqrl17cmpa9o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
